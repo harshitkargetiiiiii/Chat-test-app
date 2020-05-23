@@ -1,0 +1,20 @@
+
+     [
+        {   "product_id" : 1,
+            "product_name": "Bat",
+            "sku_code": "BAT_123_BA",
+            "price": 1000},
+        {
+            "product_id" : 2,
+            "product_name": "Ball",
+            "sku_code": "BALL_123_BAL",
+            "price": 500  
+        },
+        {
+            "product_id" : 3,
+            "product_name": "Wicket",
+            "sku_code": "WICKET_123_WI",
+            "price": 700  
+        }
+    ]
+
